@@ -1,5 +1,3 @@
-//đổi tiền bằng giải thuật tham lam
-
 #include <iostream>
 
 using namespace std;
