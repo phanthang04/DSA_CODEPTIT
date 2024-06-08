@@ -1,4 +1,4 @@
-// TỔNG NHỎ NHẤT
+// CHIA MẢNG THÀNH HAI MẢNG CON CÓ TỔNG LỚN NHẤT
 
 #include <bits/stdc++.h>
 
